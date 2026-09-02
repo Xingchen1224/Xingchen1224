@@ -1,5 +1,5 @@
-# Good Good Study, Day Day Up!
+# Hi there, I'm Xingchen
 
-[![Xingchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xingchen1224&show_icons=true&theme=algolia)](https://github.com/Xingchen1224)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xingchen_Wang-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/xingchen-wang/)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xingchen1224&layout=compact)](https://github.com/Xingchen1224) -->
+[![Website](https://img.shields.io/badge/Website-xingchen1224.github.io-informational?style=social&logo=googlechrome)](https://xingchen1224.github.io)
